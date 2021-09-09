@@ -4,7 +4,7 @@
 [![Build Status](https://gitlab.com/Remmina/Remmina/badges/master/pipeline.svg)](https://gitlab.com/Remmina/Remmina/pipelines)
 [![Translation status](https://hosted.weblate.org/widgets/remmina/-/remmina/svg-badge.svg)](https://hosted.weblate.org/engage/remmina/?utm_source=widget)
 [![remmina](https://snapcraft.io//remmina/badge.svg)](https://snapcraft.io/remmina)
-
+c
 ## Remmina remote desktop client
 
 *Use other desktops remotely, from a tiny screen or large monitors.*
